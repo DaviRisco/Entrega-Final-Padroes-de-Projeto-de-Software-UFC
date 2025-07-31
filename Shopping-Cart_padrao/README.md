@@ -120,6 +120,8 @@ Para estruturar a aplicação, foram criadas as seguintes classes, cada uma com 
 
 O diagrama UML abaixo ilustra como essas classes se relacionam:
 
+![Diagrama UML das classes do projeto](design/diagrama_uml.png)
+
 ## 🚀 Como Executar o Projeto
 Como este é um projeto front-end com HTML, CSS e JavaScript puros, não há necessidade de instalação de dependências.
 
